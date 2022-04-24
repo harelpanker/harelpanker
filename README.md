@@ -10,4 +10,4 @@
 
 Feel free to view my projects, the companies I'm working with and learn more about me [here](https://www.panker.io/).
 
-Always happy to know new people!
+Always exited for new projects!

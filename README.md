@@ -8,6 +8,6 @@
 - SEO, User Interface (UI), User Experience (UX)
 - Webflow, Figma
 
-Feel free to view my projects, the companies I'm working with and learn more about me [here](https://www.panker.io/).
+Feel free to view my projects, the companies I'm working with and learn more about me [here](https://www.panker.dev/).
 
 Always exited for new projects!

@@ -3,8 +3,8 @@
 
 ## Some of my knowledge includes:
 - HTML, CSS/SCSS, JavaScript, TypeScript
-- React, NextJS
-- Tailwind CSS, Material UI, Styled-Components
+- React, NextJS, Svelte/SvelteKit
+- TailwindCSS
 - SEO, User Interface (UI), User Experience (UX)
 - Webflow, Figma
 
